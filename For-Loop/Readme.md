@@ -1,7 +1,7 @@
 https://www.w3resource.com/c-programming-exercises/for-loop/index.php
 
 ## C For Loop [59 exercises with solution]
-
+```
 1. Write a program in C to display the first 10 natural numbers. Go to the editor
 Expected Output :
 1 2 3 4 5 6 7 8 9 10
@@ -497,3 +497,4 @@ Test Data :
 Input an integer : 1634
 Expected Output :
 1634 is an Armstrong number
+```
